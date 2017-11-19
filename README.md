@@ -6,6 +6,8 @@ Version: 1.0
 
 License: GNU General Public License v3.0
 
+General Info:
+---------------------------------------------------------
 TutahSQL is a little SQL-Database- Project for managing private tutoring students and appointments.
 
 Requierements:
