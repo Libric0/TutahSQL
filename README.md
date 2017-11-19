@@ -12,7 +12,7 @@ TutahSQL is a little SQL-Database- Project for managing private tutoring student
 
 Requierements:
 ---------------------------------------------------------
-Tutah will definitely work with Java 8 and higher. I cant promise that it will run on older versions.
+Tutah will work definitely with Java 8 and higher. I cant promise that it will run on older versions.
 
 How To Run TutahSQL:
 ---------------------------------------------------------
